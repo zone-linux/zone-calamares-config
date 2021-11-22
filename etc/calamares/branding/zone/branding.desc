@@ -1,4 +1,4 @@
-componentName:   stalker
+componentName:  zone 
 welcomeStyleCalamares:   false
 welcomeExpandingLogo:   true
 windowExpanding:    normal
@@ -8,17 +8,17 @@ sidebar: widget
 navigation: widget
 
 strings:
-    productName:         S.T.A.L.K.E.R. 
-    shortProductName:    S.T.A.L.K.E.R.
+    productName:         Zone 
+    shortProductName:    Zone
     version:             2021.01.1
     shortVersion:        2021.01.1
-    versionedName:       S.T.A.L.K.E.R.
-    shortVersionedName:  S.T.A.L.K.E.R.
-    bootloaderEntryName: S.T.A.L.K.E.R.
+    versionedName:       Zone
+    shortVersionedName:  Zone
+    bootloaderEntryName: Zone
 
 images:
-    productIcon:         "stalker-logo.png"
-    productLogo:         "stalker-logo.png"
+    productIcon:         "zone-logo.png"
+    productLogo:         "zone-logo.png"
     productWelcome:      "languages.png"
 
 style:
