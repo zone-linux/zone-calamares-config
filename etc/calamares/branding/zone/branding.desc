@@ -8,7 +8,7 @@ sidebar: widget
 navigation: widget
 
 strings:
-    productName:         Zone 
+    productName:         The Zone 
     shortProductName:    Zone
     version:             2021.01.1
     shortVersion:        2021.01.1
@@ -25,7 +25,7 @@ style:
    sidebarBackground:    "#282a36"
    sidebarText:          "#FFFFFF"
    sidebarTextSelect:    "#FFFFFF"
-   sidebarTextHighlight: "#81A1C1"
+   sidebarTextHighlight: "#61AFEF"
 
 slideshow:               "show.qml"
 slideshowAPI: 2
